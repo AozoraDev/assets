@@ -1,4 +1,4 @@
-## HaruByte
+## Volkadot
 - Created by: AozoraDev
 - Type: Official
 - Used for: [Volkadot](https://github.com/Volkadot/)
